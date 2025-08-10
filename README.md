@@ -1,0 +1,2 @@
+# Dual-Teacher-Knowledge-Distillation-with-Dual-Loops-for-Continuous-Few-Shot-Relation-Extraction
+A dual-teacher knowledge distillation model has been designed to enrich knowledge. A dual-loops distillation method has been introduced to reduce the occurrence of catastrophic forgetting. Introducing reinforcement learning avoids overfitting in multi-round distillation. Achieving state-of-the-art results on the FewRel and TACRED datasets . 
