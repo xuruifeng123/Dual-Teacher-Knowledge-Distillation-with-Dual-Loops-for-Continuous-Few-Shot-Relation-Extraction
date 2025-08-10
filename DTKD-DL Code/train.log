@@ -1,0 +1,1215 @@
+Traceback (most recent call last):
+  File "main.py", line 13, in <module>
+    import torch
+  File "/home/xurf23/anaconda3/envs/FSRE/lib/python3.7/site-packages/torch/__init__.py", line 190, in <module>
+    from torch._C import *
+RuntimeError: KeyboardInterrupt: 
+DEBUG:root:the 0th task:[24, 63, 5, 77, 64, 48, 11, 20, 13, 16]
+DEBUG:root:['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin']
+DEBUG:root:当前任务的数据990
+DEBUG:root:loss is 1.3310733523910805
+DEBUG:root:loss is 0.1763472545088359
+DEBUG:root:loss is 0.10690867289667949
+DEBUG:root:loss is 0.042725904471984495
+DEBUG:root:loss is 0.015551596266783646
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：[]
+DEBUG:root:current data number:                990
+DEBUG:root:当前蒸馏温度与权重：{'input': ['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin'], 'teacher': None, 'student': None, 'T': 1.5, 'T_index': 0, 'W': 0.1, 'W_index': 0, 'iter': 0}
+DEBUG:root:loss is 1.5395451413224368
+DEBUG:root:loss is 0.8443566470155661
+DEBUG:root:loss is 0.604317720875459
+DEBUG:root:loss is 0.5260782677915289
+DEBUG:root:loss is 0.37641486355592096
+DEBUG:root:loss is 0.3246976558534615
+DEBUG:root:loss is 0.29325544642581286
+DEBUG:root:loss is 0.3114122914830013
+DEBUG:root:loss is 0.25774392908043764
+DEBUG:root:loss is 0.2669886286305465
+DEBUG:root:loss is 0.30429171111278336
+DEBUG:root:loss is 0.23197290928912964
+DEBUG:root:loss is 0.2032581168835255
+DEBUG:root:loss is 0.1896438503987193
+DEBUG:root:loss is 0.18095164542219963
+DEBUG:root:输出从运行开始到现在的关系：10
+DEBUG:root:输出要训练的记忆体的数量：10
+DEBUG:root:loss is 2.359887547791004
+DEBUG:root:loss is 0.16179915961962857
+DEBUG:root:loss is 0.2994611928052109
+DEBUG:root:loss is 0.13055321033728737
+DEBUG:root:loss is 0.139464118094196
+DEBUG:root:loss is 0.17772870496719406
+DEBUG:root:loss is 0.15439182981450963
+DEBUG:root:loss is 0.1484915650836077
+DEBUG:root:loss is 0.15054431436571272
+DEBUG:root:loss is 0.1373107487335498
+DEBUG:root:loss is 0.15659578301195629
+DEBUG:root:loss is 0.15478938483162588
+DEBUG:root:loss is 0.16132154807352586
+DEBUG:root:loss is 0.26878899497008507
+DEBUG:root:loss is 0.1398803950318476
+DEBUG:root:loss is 0.14674935064977035
+DEBUG:root:loss is 0.12336455137004994
+DEBUG:root:loss is 0.24346330859771115
+DEBUG:root:loss is 0.1330029997727138
+DEBUG:root:loss is 0.2538814480685687
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--1:
+DEBUG:root:当前奖励：-0.12694072403428436
+DEBUG:root:the 1th task:[79, 3, 12, 23, 28, 1, 55, 60, 41, 2]
+DEBUG:root:['main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion']
+DEBUG:root:当前任务的数据40
+DEBUG:root:the 0th task:[24, 63, 5, 77, 64, 48, 11, 20, 13, 16]
+DEBUG:root:['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin']
+DEBUG:root:当前任务的数据990
+DEBUG:root:the 0th task:[6, 19, 24, 26, 29, 32]
+DEBUG:root:the 0th task:[6, 19, 24, 26, 29, 32]
+DEBUG:root:the 0th task:[6, 19, 24, 26, 29, 32]
+DEBUG:root:the 0th task:[24, 63, 5, 77, 64, 48, 11, 20, 13, 16]
+DEBUG:root:['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin']
+DEBUG:root:当前任务的数据990
+DEBUG:root:loss is 0.9246436281542463
+DEBUG:root:loss is 0.1684842943362633
+DEBUG:root:loss is 0.074756372665382
+DEBUG:root:loss is 0.054679657207709925
+DEBUG:root:loss is 0.029002226832965265
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：[]
+DEBUG:root:current data number:                990
+DEBUG:root:当前蒸馏温度与权重：{'input': ['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin'], 'teacher': None, 'student': None, 'T': 1.5, 'T_index': 0, 'W': 0.1, 'W_index': 0, 'iter': 0}
+DEBUG:root:loss is 0.9266499142339545
+DEBUG:root:loss is 0.19777739187572388
+DEBUG:root:loss is 0.06785328401524357
+DEBUG:root:loss is 0.04150850491658068
+DEBUG:root:loss is 0.035043591686512145
+DEBUG:root:loss is 0.08197922959363171
+DEBUG:root:loss is 0.018184622801354956
+DEBUG:root:loss is 0.004884572867060943
+DEBUG:root:loss is 0.02557250427187944
+DEBUG:root:loss is 0.00924595806664724
+DEBUG:root:loss is 0.018711608627951487
+DEBUG:root:loss is 0.002789623581757259
+DEBUG:root:loss is 0.004851786987625799
+DEBUG:root:loss is 0.003935260033242644
+DEBUG:root:loss is 0.014256633769811011
+DEBUG:root:输出从运行开始到现在的关系：10
+DEBUG:root:输出要训练的记忆体的数量：10
+DEBUG:root:loss is 1.4343980987537528
+DEBUG:root:loss is 0.5753513702032458
+DEBUG:root:loss is 0.00023758991785302274
+DEBUG:root:loss is 1.5149403175901627e-07
+DEBUG:root:loss is 6.840515524755679e-08
+DEBUG:root:loss is 0.008179204934857718
+DEBUG:root:loss is 6.015802259787387e-07
+DEBUG:root:loss is 8.574877095088145e-08
+DEBUG:root:loss is 2.6017295227466877e-06
+DEBUG:root:loss is 2.6685562283580764e-07
+DEBUG:root:loss is 1.8931954564901215e-07
+DEBUG:root:loss is 1.135413383200265e-08
+DEBUG:root:loss is 6.316316508776136e-08
+DEBUG:root:loss is 1.047446376683614e-07
+DEBUG:root:loss is 0.0003255075833359738
+DEBUG:root:loss is 9.959103709258267e-08
+DEBUG:root:loss is 3.5742285769420346e-05
+DEBUG:root:loss is 1.9090353269859026e-07
+DEBUG:root:loss is 2.2796579986522922e-08
+DEBUG:root:loss is 1.1390939943544514e-06
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--1:
+DEBUG:root:当前奖励：-5.695469971772257e-07
+DEBUG:root:the 1th task:[79, 3, 12, 23, 28, 1, 55, 60, 41, 2]
+DEBUG:root:['main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 5.052020156383515
+DEBUG:root:loss is 1.6199320401996373
+DEBUG:root:loss is 0.6873522761277855
+DEBUG:root:loss is 0.2095678429119289
+DEBUG:root:loss is 0.11711985459551215
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion'], 'teacher': 0.0, 'student': 1.1390939943544514e-06, 'T': 1.5, 'T_index': 0, 'W': 0.3, 'W_index': 2, 'iter': 1}
+DEBUG:root:loss is 6.175070568919182
+DEBUG:root:loss is 5.333039201796055
+DEBUG:root:loss is 4.639450673758984
+DEBUG:root:loss is 4.515805205702781
+DEBUG:root:loss is 4.067371563613415
+DEBUG:root:loss is 3.7676349759101866
+DEBUG:root:loss is 3.711817716062069
+DEBUG:root:loss is 3.7395205438137054
+DEBUG:root:loss is 3.4816513285040855
+DEBUG:root:loss is 3.426182170212269
+DEBUG:root:loss is 3.2071119263768195
+DEBUG:root:loss is 3.02864488363266
+DEBUG:root:loss is 3.0779542848467827
+DEBUG:root:loss is 3.0090621411800385
+DEBUG:root:loss is 2.9121504232287405
+DEBUG:root:输出从运行开始到现在的关系：20
+DEBUG:root:输出要训练的记忆体的数量：20
+DEBUG:root:loss is 6.983754342794418
+DEBUG:root:loss is 3.580636611580849
+DEBUG:root:loss is 3.279303126782179
+DEBUG:root:loss is 3.4152875185012816
+DEBUG:root:loss is 2.9314240776002407
+DEBUG:root:loss is 2.802562465518713
+DEBUG:root:loss is 2.6677126362919807
+DEBUG:root:loss is 2.612841267883778
+DEBUG:root:loss is 2.427002476900816
+DEBUG:root:loss is 2.347771867364645
+DEBUG:root:loss is 2.382128994911909
+DEBUG:root:loss is 2.2818103857338428
+DEBUG:root:loss is 2.29779928997159
+DEBUG:root:loss is 2.3978718258440495
+DEBUG:root:loss is 2.513498969376087
+DEBUG:root:loss is 2.288211186230183
+DEBUG:root:loss is 2.2332196228206156
+DEBUG:root:loss is 2.037798649817705
+DEBUG:root:loss is 2.175006352365017
+DEBUG:root:loss is 2.1706251583993437
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--2:
+DEBUG:root:当前奖励：-1.469756067916751
+DEBUG:root:the 2th task:[14, 10, 18, 46, 67, 43, 15, 37, 51, 58]
+DEBUG:root:['located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 4.966232481598854
+DEBUG:root:loss is 1.1332021567970514
+DEBUG:root:loss is 0.40207767598330973
+DEBUG:root:loss is 0.18850221121683716
+DEBUG:root:loss is 0.09066991074942052
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin', 'main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location'], 'teacher': 0.7688869774341583, 'student': 2.1706251583993437, 'T': 2, 'T_index': 1, 'W': 0.3, 'W_index': 2, 'iter': 2}
+DEBUG:root:loss is 5.056802982091904
+DEBUG:root:loss is 4.442386186122894
+DEBUG:root:loss is 3.76009401679039
+DEBUG:root:loss is 3.3923448264598846
+DEBUG:root:loss is 3.2645926415920257
+DEBUG:root:loss is 2.984399065375328
+DEBUG:root:loss is 2.870898258686066
+DEBUG:root:loss is 2.953513595461845
+DEBUG:root:loss is 2.9200157046318056
+DEBUG:root:loss is 2.804381811618805
+DEBUG:root:loss is 2.7075495064258575
+DEBUG:root:loss is 2.759428894519806
+DEBUG:root:loss is 2.741512784361839
+DEBUG:root:loss is 2.6506913930177687
+DEBUG:root:loss is 2.697641497850418
+DEBUG:root:输出从运行开始到现在的关系：30
+DEBUG:root:输出要训练的记忆体的数量：30
+DEBUG:root:loss is 9.791585604349772
+DEBUG:root:loss is 4.885429763793946
+DEBUG:root:loss is 3.8195615371068317
+DEBUG:root:loss is 3.7489009300867715
+DEBUG:root:loss is 3.468022390206655
+DEBUG:root:loss is 3.3100171128908795
+DEBUG:root:loss is 3.3741031448046366
+DEBUG:root:loss is 3.223749852180481
+DEBUG:root:loss is 3.2206779956817626
+DEBUG:root:loss is 3.0478597323099774
+DEBUG:root:loss is 3.0901431341965995
+DEBUG:root:loss is 3.0490711251894633
+DEBUG:root:loss is 3.03307586312294
+DEBUG:root:loss is 3.035125221808751
+DEBUG:root:loss is 3.189794854323069
+DEBUG:root:loss is 2.9720698018868763
+DEBUG:root:loss is 2.872745903333028
+DEBUG:root:loss is 2.932336711883545
+DEBUG:root:loss is 2.9385496338208514
+DEBUG:root:loss is 2.8534159541130064
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--3:
+DEBUG:root:当前奖励：-1.6790120758116245
+DEBUG:root:the 3th task:[61, 9, 27, 40, 45, 66, 25, 33, 21, 78]
+DEBUG:root:['applies to jurisdiction', 'performer', 'manufacturer', 'participant', 'operating system', 'competition class', 'successful candidate', 'sibling', 'military branch', 'child']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 5.045858028531074
+DEBUG:root:loss is 1.127483081817627
+DEBUG:root:loss is 0.32627454567700626
+DEBUG:root:loss is 0.17715195957571267
+DEBUG:root:loss is 0.07892976757138967
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin', 'main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion', 'located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['applies to jurisdiction', 'performer', 'manufacturer', 'participant', 'operating system', 'competition class', 'successful candidate', 'sibling', 'military branch', 'child'], 'teacher': 0.5046081975102424, 'student': 2.8534159541130064, 'T': 2, 'T_index': 1, 'W': 0.2, 'W_index': 1, 'iter': 3}
+DEBUG:root:loss is 5.204615920782089
+DEBUG:root:loss is 4.479587841033935
+DEBUG:root:loss is 3.973746472597122
+DEBUG:root:loss is 3.9033440232276915
+DEBUG:root:loss is 3.760554188489914
+DEBUG:root:loss is 3.5156126081943513
+DEBUG:root:loss is 3.4022319972515107
+DEBUG:root:loss is 3.4073754847049713
+DEBUG:root:loss is 3.328973412513733
+DEBUG:root:loss is 3.2858103215694427
+DEBUG:root:loss is 3.229754364490509
+DEBUG:root:loss is 3.1576913952827455
+DEBUG:root:loss is 3.199821889400482
+DEBUG:root:loss is 3.2061041474342344
+DEBUG:root:loss is 3.2520722091197967
+DEBUG:root:输出从运行开始到现在的关系：40
+DEBUG:root:输出要训练的记忆体的数量：40
+DEBUG:root:loss is 10.627517986297608
+DEBUG:root:loss is 5.375177156925202
+DEBUG:root:loss is 4.354233968257904
+DEBUG:root:loss is 4.102941849827767
+DEBUG:root:loss is 3.9111559301614762
+DEBUG:root:loss is 3.7811621099710466
+DEBUG:root:loss is 3.8177523255348205
+DEBUG:root:loss is 3.7048534721136095
+DEBUG:root:loss is 3.6607001274824142
+DEBUG:root:loss is 3.6785280048847198
+DEBUG:root:loss is 3.577854263782501
+DEBUG:root:loss is 3.7197485238313677
+DEBUG:root:loss is 3.689517322182655
+DEBUG:root:loss is 3.642928197979927
+DEBUG:root:loss is 3.622611108422279
+DEBUG:root:loss is 3.592799186706543
+DEBUG:root:loss is 3.555807128548622
+DEBUG:root:loss is 3.575459140539169
+DEBUG:root:loss is 3.5097173511981965
+DEBUG:root:loss is 3.5468137383461
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--4:
+DEBUG:root:当前奖励：-2.0873499512672424
+DEBUG:root:the 4th task:[30, 29, 62, 32, 57, 59, 31, 69, 47, 0]
+DEBUG:root:['member of political party', 'after a work by', 'notable work', 'headquarters location', 'taxon rank', 'field of work', 'licensed to broadcast to', 'constellation', 'platform', 'place served by transport hub']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 5.196166828274727
+DEBUG:root:loss is 0.6930279418826103
+DEBUG:root:loss is 0.20833752881735562
+DEBUG:root:loss is 0.08014893066138029
+DEBUG:root:loss is 0.05383336865343154
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin', 'main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion', 'located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location', 'applies to jurisdiction', 'performer', 'manufacturer', 'participant', 'operating system', 'competition class', 'successful candidate', 'sibling', 'military branch', 'child']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['member of political party', 'after a work by', 'notable work', 'headquarters location', 'taxon rank', 'field of work', 'licensed to broadcast to', 'constellation', 'platform', 'place served by transport hub'], 'teacher': 0.627886164188385, 'student': 3.5468137383461, 'T': 2, 'T_index': 1, 'W': 0.3, 'W_index': 2, 'iter': 4}
+DEBUG:root:loss is 4.4687049150466915
+DEBUG:root:loss is 4.1684601426124575
+DEBUG:root:loss is 3.705752158164978
+DEBUG:root:loss is 3.6681300342082976
+DEBUG:root:loss is 3.5777712881565096
+DEBUG:root:loss is 3.5321288764476777
+DEBUG:root:loss is 3.3981709659099577
+DEBUG:root:loss is 3.4457898437976837
+DEBUG:root:loss is 3.408387190103531
+DEBUG:root:loss is 3.408442944288254
+DEBUG:root:loss is 3.4201502799987793
+DEBUG:root:loss is 3.34744313955307
+DEBUG:root:loss is 3.349318116903305
+DEBUG:root:loss is 3.3357481777668
+DEBUG:root:loss is 3.3754965722560883
+DEBUG:root:输出从运行开始到现在的关系：50
+DEBUG:root:输出要训练的记忆体的数量：50
+DEBUG:root:loss is 10.573357105255127
+DEBUG:root:loss is 5.649043493270874
+DEBUG:root:loss is 4.5906086254119876
+DEBUG:root:loss is 4.307090227603912
+DEBUG:root:loss is 4.206634781360626
+DEBUG:root:loss is 4.138152256011963
+DEBUG:root:loss is 4.085963373184204
+DEBUG:root:loss is 4.081142168045044
+DEBUG:root:loss is 4.073801946640015
+DEBUG:root:loss is 4.040773479938507
+DEBUG:root:loss is 4.000675439834595
+DEBUG:root:loss is 3.9933798336982727
+DEBUG:root:loss is 3.988515040874481
+DEBUG:root:loss is 3.97180730342865
+DEBUG:root:loss is 3.97152601480484
+DEBUG:root:loss is 3.9629680633544924
+DEBUG:root:loss is 4.081303889751434
+DEBUG:root:loss is 4.131133685111999
+DEBUG:root:loss is 3.9491239953041077
+DEBUG:root:loss is 3.9055724906921387
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--5:
+DEBUG:root:当前奖励：-2.263844149708748
+DEBUG:root:the 5th task:[73, 68, 19, 7, 65, 52, 76, 34, 35, 42]
+DEBUG:root:['follows', 'sport', 'father', 'original network', 'original language of work', 'league', 'mother', 'instrument', 'country', 'characters']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 6.246462297439575
+DEBUG:root:loss is 1.3959314566105605
+DEBUG:root:loss is 0.5405949434265495
+DEBUG:root:loss is 0.3216805636882782
+DEBUG:root:loss is 0.18879340020939708
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin', 'main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion', 'located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location', 'applies to jurisdiction', 'performer', 'manufacturer', 'participant', 'operating system', 'competition class', 'successful candidate', 'sibling', 'military branch', 'child', 'member of political party', 'after a work by', 'notable work', 'headquarters location', 'taxon rank', 'field of work', 'licensed to broadcast to', 'constellation', 'platform', 'place served by transport hub']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['follows', 'sport', 'father', 'original network', 'original language of work', 'league', 'mother', 'instrument', 'country', 'characters'], 'teacher': 0.6221158087253571, 'student': 3.9055724906921387, 'T': 1.5, 'T_index': 0, 'W': 0.3, 'W_index': 2, 'iter': 5}
+DEBUG:root:loss is 5.994974178075791
+DEBUG:root:loss is 5.537952822446823
+DEBUG:root:loss is 5.062111061811447
+DEBUG:root:loss is 4.748235005140304
+DEBUG:root:loss is 4.690515655279159
+DEBUG:root:loss is 4.579188317060471
+DEBUG:root:loss is 4.584263586997986
+DEBUG:root:loss is 4.3750079572200775
+DEBUG:root:loss is 4.224228918552399
+DEBUG:root:loss is 4.186714601516724
+DEBUG:root:loss is 4.117898166179657
+DEBUG:root:loss is 4.021451658010482
+DEBUG:root:loss is 3.9913328886032104
+DEBUG:root:loss is 3.93988436460495
+DEBUG:root:loss is 3.8450124859809875
+DEBUG:root:输出从运行开始到现在的关系：60
+DEBUG:root:输出要训练的记忆体的数量：60
+DEBUG:root:loss is 10.447803123792012
+DEBUG:root:loss is 4.983035190900167
+DEBUG:root:loss is 3.8160602072874705
+DEBUG:root:loss is 3.582159314552943
+DEBUG:root:loss is 3.501805791258812
+DEBUG:root:loss is 3.4457631945610045
+DEBUG:root:loss is 3.3956102857987087
+DEBUG:root:loss is 3.3927794585625333
+DEBUG:root:loss is 3.3489519486824673
+DEBUG:root:loss is 3.368226049343745
+DEBUG:root:loss is 3.373311973611514
+DEBUG:root:loss is 3.304435791571935
+DEBUG:root:loss is 3.247598461310069
+DEBUG:root:loss is 3.219639072815577
+DEBUG:root:loss is 3.264727341135343
+DEBUG:root:loss is 3.229220313827197
+DEBUG:root:loss is 3.252611874540647
+DEBUG:root:loss is 3.2534010618925095
+DEBUG:root:loss is 3.2368519713481265
+DEBUG:root:loss is 3.2641559769709905
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--6:
+DEBUG:root:当前奖励：-1.922750888268153
+DEBUG:root:the 6th task:[4, 50, 49, 75, 17, 26, 38, 36, 8, 72]
+DEBUG:root:['contains administrative territorial entity', 'said to be the same as', 'winner', 'military rank', 'publisher', 'followed by', 'work location', 'occupation', 'heritage designation', 'voice type']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 6.208489376306534
+DEBUG:root:loss is 1.1973987162113189
+DEBUG:root:loss is 0.24794426150619983
+DEBUG:root:loss is 0.09257635399699211
+DEBUG:root:loss is 0.06480277804657816
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin', 'main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion', 'located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location', 'applies to jurisdiction', 'performer', 'manufacturer', 'participant', 'operating system', 'competition class', 'successful candidate', 'sibling', 'military branch', 'child', 'member of political party', 'after a work by', 'notable work', 'headquarters location', 'taxon rank', 'field of work', 'licensed to broadcast to', 'constellation', 'platform', 'place served by transport hub', 'follows', 'sport', 'father', 'original network', 'original language of work', 'league', 'mother', 'instrument', 'country', 'characters']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['contains administrative territorial entity', 'said to be the same as', 'winner', 'military rank', 'publisher', 'followed by', 'work location', 'occupation', 'heritage designation', 'voice type'], 'teacher': 0.5813457995653153, 'student': 3.2641559769709905, 'T': 1.5, 'T_index': 0, 'W': 0.3, 'W_index': 2, 'iter': 6}
+DEBUG:root:loss is 5.893152767419815
+DEBUG:root:loss is 5.121570587158203
+DEBUG:root:loss is 4.731372040510178
+DEBUG:root:loss is 4.375265181064606
+DEBUG:root:loss is 4.223513150215149
+DEBUG:root:loss is 4.187573736906051
+DEBUG:root:loss is 4.045765280723572
+DEBUG:root:loss is 4.013349950313568
+DEBUG:root:loss is 4.083540093898773
+DEBUG:root:loss is 4.031334912776947
+DEBUG:root:loss is 3.9518415689468385
+DEBUG:root:loss is 3.9417825520038603
+DEBUG:root:loss is 3.924576550722122
+DEBUG:root:loss is 3.9103592216968535
+DEBUG:root:loss is 3.8877750277519225
+DEBUG:root:输出从运行开始到现在的关系：70
+DEBUG:root:输出要训练的记忆体的数量：70
+DEBUG:root:loss is 11.75808824130467
+DEBUG:root:loss is 5.441998103686742
+DEBUG:root:loss is 4.077497845036643
+DEBUG:root:loss is 3.838609574522291
+DEBUG:root:loss is 3.7928821665900094
+DEBUG:root:loss is 3.703564167022705
+DEBUG:root:loss is 3.6447850602013725
+DEBUG:root:loss is 3.6278909385204314
+DEBUG:root:loss is 3.6635154383523125
+DEBUG:root:loss is 3.5965446182659693
+DEBUG:root:loss is 3.63363025529044
+DEBUG:root:loss is 3.681739663226264
+DEBUG:root:loss is 3.631373162780489
+DEBUG:root:loss is 3.640734864132745
+DEBUG:root:loss is 3.6053268296378
+DEBUG:root:loss is 3.621418458223343
+DEBUG:root:loss is 3.6235883023057665
+DEBUG:root:loss is 3.6094535435949053
+DEBUG:root:loss is 3.598385557106563
+DEBUG:root:loss is 3.6272981796945842
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--7:
+DEBUG:root:当前奖励：-2.1146911116583005
+DEBUG:root:the 7th task:[74, 53, 54, 71, 39, 6, 44, 22, 70, 56]
+DEBUG:root:['spouse', 'record label', 'distributor', 'located in or next to body of water', 'subsidiary', 'country of citizenship', 'genre', 'mouth of the watercourse', 'position played on team / speciality', 'sports season of league or competition']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 5.966121354699135
+DEBUG:root:loss is 0.8646978363394737
+DEBUG:root:loss is 0.28289455026388166
+DEBUG:root:loss is 0.08265032125636936
+DEBUG:root:loss is 0.053916168538853525
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin', 'main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion', 'located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location', 'applies to jurisdiction', 'performer', 'manufacturer', 'participant', 'operating system', 'competition class', 'successful candidate', 'sibling', 'military branch', 'child', 'member of political party', 'after a work by', 'notable work', 'headquarters location', 'taxon rank', 'field of work', 'licensed to broadcast to', 'constellation', 'platform', 'place served by transport hub', 'follows', 'sport', 'father', 'original network', 'original language of work', 'league', 'mother', 'instrument', 'country', 'characters', 'contains administrative territorial entity', 'said to be the same as', 'winner', 'military rank', 'publisher', 'followed by', 'work location', 'occupation', 'heritage designation', 'voice type']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['spouse', 'record label', 'distributor', 'located in or next to body of water', 'subsidiary', 'country of citizenship', 'genre', 'mouth of the watercourse', 'position played on team / speciality', 'sports season of league or competition'], 'teacher': 0.602084043622017, 'student': 3.6272981796945842, 'T': 1.5, 'T_index': 0, 'W': 0.3, 'W_index': 2, 'iter': 7}
+DEBUG:root:loss is 5.971692967414856
+DEBUG:root:loss is 4.909702652692795
+DEBUG:root:loss is 4.512528133392334
+DEBUG:root:loss is 4.29432310461998
+DEBUG:root:loss is 4.182123905420303
+DEBUG:root:loss is 4.072921681404114
+DEBUG:root:loss is 4.034848022460937
+DEBUG:root:loss is 3.98381022810936
+DEBUG:root:loss is 3.877527838945389
+DEBUG:root:loss is 3.845806473493576
+DEBUG:root:loss is 3.935733026266098
+DEBUG:root:loss is 3.8550893485546114
+DEBUG:root:loss is 3.844886928796768
+DEBUG:root:loss is 3.84043944478035
+DEBUG:root:loss is 3.8110584378242494
+DEBUG:root:输出从运行开始到现在的关系：80
+DEBUG:root:输出要训练的记忆体的数量：80
+DEBUG:root:loss is 12.615253776311874
+DEBUG:root:loss is 5.830791580677032
+DEBUG:root:loss is 4.2915054827928545
+DEBUG:root:loss is 4.082051168382168
+DEBUG:root:loss is 3.930057907104492
+DEBUG:root:loss is 3.8714969903230667
+DEBUG:root:loss is 3.802072437107563
+DEBUG:root:loss is 3.7870553843677044
+DEBUG:root:loss is 3.68919427767396
+DEBUG:root:loss is 3.6720804758369923
+DEBUG:root:loss is 3.6904352508485316
+DEBUG:root:loss is 3.7169147923588755
+DEBUG:root:loss is 3.729276919364929
+DEBUG:root:loss is 3.6890991598367693
+DEBUG:root:loss is 3.7771239019930363
+DEBUG:root:loss is 3.6988031648099424
+DEBUG:root:loss is 3.7096320115029813
+DEBUG:root:loss is 3.6866072051227095
+DEBUG:root:loss is 3.887083879858255
+DEBUG:root:loss is 3.8284103028476237
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--8:
+DEBUG:root:当前奖励：-2.187060758844018
+DEBUG:root:the 0th task:[24, 63, 5, 77, 64, 48, 11, 20, 13, 16]
+DEBUG:root:['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin']
+DEBUG:root:当前任务的数据990
+DEBUG:root:loss is 0.131639736370922
+DEBUG:root:loss is 0.0009714908624624109
+DEBUG:root:loss is 0.00035113290944748155
+DEBUG:root:loss is 0.00017288553130441356
+DEBUG:root:loss is 9.1706397905349e-05
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：[]
+DEBUG:root:current data number:                990
+DEBUG:root:当前蒸馏温度与权重：{'input': ['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin'], 'teacher': None, 'student': None, 'T': 1.5, 'T_index': 0, 'W': 0.1, 'W_index': 0, 'iter': 0}
+DEBUG:root:loss is 1.4960499757671671e-06
+DEBUG:root:loss is 0.007904645287287994
+DEBUG:root:loss is 1.6746184148372074e-08
+DEBUG:root:loss is 1.8689836459278163e-08
+DEBUG:root:loss is 1.5684895721245293e-08
+DEBUG:root:loss is 4.275004761292633e-09
+DEBUG:root:loss is 4.8775855121162936e-09
+DEBUG:root:loss is 2.7484839129992277e-09
+DEBUG:root:loss is 1.876424201631012e-09
+DEBUG:root:loss is 1.6778478276692505e-09
+DEBUG:root:loss is 2.854786327263854e-08
+DEBUG:root:loss is 2.6483015574144943e-09
+DEBUG:root:loss is 2.5284746952940724e-10
+DEBUG:root:loss is 1.784613476939652e-10
+DEBUG:root:loss is 6.86014937975071e-11
+DEBUG:root:输出从运行开始到现在的关系：10
+DEBUG:root:输出要训练的记忆体的数量：10
+DEBUG:root:loss is 5.567541062374967e-11
+DEBUG:root:loss is 7.314469456044857e-11
+DEBUG:root:loss is 7.483293260231172e-11
+DEBUG:root:loss is 9.933856903705058e-11
+DEBUG:root:loss is 5.241855943310383e-11
+DEBUG:root:loss is 4.5216431976673883e-11
+DEBUG:root:loss is 3.146968407678795e-10
+DEBUG:root:loss is 3.393711291331471e-11
+DEBUG:root:loss is 1.0209109680683545e-10
+DEBUG:root:loss is 2.8781295586827877e-11
+DEBUG:root:loss is 4.488239469749994e-11
+DEBUG:root:loss is 9.542608659100955e-11
+DEBUG:root:loss is 4.735176127341079e-11
+DEBUG:root:loss is 3.5937657767736757e-11
+DEBUG:root:loss is 3.519977484131836e-11
+DEBUG:root:loss is 1.4260357289415166e-10
+DEBUG:root:loss is 4.3661784420150757e-11
+DEBUG:root:loss is 7.568619752095298e-10
+DEBUG:root:loss is 5.5669306848766395e-11
+DEBUG:root:loss is 4.4869917739556556e-11
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--1:
+DEBUG:root:当前奖励：-2.2434958869778278e-11
+DEBUG:root:the 1th task:[79, 3, 12, 23, 28, 1, 55, 60, 41, 2]
+DEBUG:root:['main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 3.4078451842069626
+DEBUG:root:loss is 0.31055036690086124
+DEBUG:root:loss is 0.07916929335333407
+DEBUG:root:loss is 0.044692157208919524
+DEBUG:root:loss is 0.03058917585294694
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion'], 'teacher': 0.0, 'student': 4.4869917739556556e-11, 'T': 1.5, 'T_index': 0, 'W': 0.1, 'W_index': 0, 'iter': 1}
+DEBUG:root:loss is 2.665936955809593
+DEBUG:root:loss is 1.6078758858144284
+DEBUG:root:loss is 1.3074893407523631
+DEBUG:root:loss is 1.225341696292162
+DEBUG:root:loss is 1.0571659184992312
+DEBUG:root:loss is 1.1126764096319675
+DEBUG:root:loss is 1.0694106340408325
+DEBUG:root:loss is 1.063259955495596
+DEBUG:root:loss is 0.9760173238813877
+DEBUG:root:loss is 1.099481112509966
+DEBUG:root:loss is 1.0751879706978797
+DEBUG:root:loss is 0.9869803644716739
+DEBUG:root:loss is 0.9475413993000984
+DEBUG:root:loss is 0.9377218909561634
+DEBUG:root:loss is 0.9434304624795914
+DEBUG:root:输出从运行开始到现在的关系：20
+DEBUG:root:输出要训练的记忆体的数量：20
+DEBUG:root:loss is 3.462990349531174
+DEBUG:root:loss is 1.210748626291752
+DEBUG:root:loss is 1.1539672918617725
+DEBUG:root:loss is 1.070616567134857
+DEBUG:root:loss is 0.9853946261107922
+DEBUG:root:loss is 0.9122977711260318
+DEBUG:root:loss is 0.974028093367815
+DEBUG:root:loss is 0.9952451549470425
+DEBUG:root:loss is 0.9778898634016514
+DEBUG:root:loss is 1.0476449377834798
+DEBUG:root:loss is 1.0053937196731568
+DEBUG:root:loss is 0.9058559462428093
+DEBUG:root:loss is 0.8528274416923523
+DEBUG:root:loss is 0.8820348411798478
+DEBUG:root:loss is 0.8083982549607753
+DEBUG:root:loss is 0.8441620290279388
+DEBUG:root:loss is 0.928381959348917
+DEBUG:root:loss is 0.8405282832682133
+DEBUG:root:loss is 0.8573149919509888
+DEBUG:root:loss is 0.7994428060948848
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--2:
+DEBUG:root:当前奖励：-0.7643522914499044
+DEBUG:root:the 2th task:[14, 10, 18, 46, 67, 43, 15, 37, 51, 58]
+DEBUG:root:['located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 4.105708990991116
+DEBUG:root:loss is 0.3403914491645992
+DEBUG:root:loss is 0.07354736938141286
+DEBUG:root:loss is 0.03758657583966851
+DEBUG:root:loss is 0.030251111439429223
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin', 'main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location'], 'teacher': 0.729261776804924, 'student': 0.7994428060948848, 'T': 2.5, 'T_index': 2, 'W': 0.1, 'W_index': 0, 'iter': 2}
+DEBUG:root:loss is 3.172473168373108
+DEBUG:root:loss is 2.527822509407997
+DEBUG:root:loss is 2.471230852603912
+DEBUG:root:loss is 2.526868334412575
+DEBUG:root:loss is 2.4986590832471847
+DEBUG:root:loss is 2.4797933250665665
+DEBUG:root:loss is 2.4572080582380296
+DEBUG:root:loss is 2.4385369777679444
+DEBUG:root:loss is 2.409622573852539
+DEBUG:root:loss is 2.4375730782747267
+DEBUG:root:loss is 2.446512243151665
+DEBUG:root:loss is 2.417763873934746
+DEBUG:root:loss is 2.423782819509506
+DEBUG:root:loss is 2.432243663072586
+DEBUG:root:loss is 2.4354115933179856
+DEBUG:root:输出从运行开始到现在的关系：30
+DEBUG:root:输出要训练的记忆体的数量：30
+DEBUG:root:loss is 5.7875327905019125
+DEBUG:root:loss is 3.3437004029750823
+DEBUG:root:loss is 3.0199240267276766
+DEBUG:root:loss is 2.8929137786229453
+DEBUG:root:loss is 2.78508296807607
+DEBUG:root:loss is 2.7300424834092456
+DEBUG:root:loss is 2.6762871543566384
+DEBUG:root:loss is 2.6533152580261232
+DEBUG:root:loss is 2.704239155848821
+DEBUG:root:loss is 2.633336136738459
+DEBUG:root:loss is 2.651267594099045
+DEBUG:root:loss is 2.623771289984385
+DEBUG:root:loss is 2.6250772257645925
+DEBUG:root:loss is 2.6052301645278932
+DEBUG:root:loss is 2.5745065182447435
+DEBUG:root:loss is 2.5703806738058725
+DEBUG:root:loss is 2.5497620075941088
+DEBUG:root:loss is 2.5903230865796405
+DEBUG:root:loss is 2.5759236494700115
+DEBUG:root:loss is 2.581308195988337
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--3:
+DEBUG:root:当前奖励：-1.6560339336593946
+DEBUG:root:the 3th task:[61, 9, 27, 40, 45, 66, 25, 33, 21, 78]
+DEBUG:root:['applies to jurisdiction', 'performer', 'manufacturer', 'participant', 'operating system', 'competition class', 'successful candidate', 'sibling', 'military branch', 'child']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 4.404245857894421
+DEBUG:root:loss is 0.44616384487599137
+DEBUG:root:loss is 0.08025587731972336
+DEBUG:root:loss is 0.04128099661320448
+DEBUG:root:loss is 0.027940520038828253
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin', 'main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion', 'located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['applies to jurisdiction', 'performer', 'manufacturer', 'participant', 'operating system', 'competition class', 'successful candidate', 'sibling', 'military branch', 'child'], 'teacher': 0.7307596713304519, 'student': 2.581308195988337, 'T': 2, 'T_index': 1, 'W': 0.1, 'W_index': 0, 'iter': 3}
+DEBUG:root:loss is 3.3839614927768706
+DEBUG:root:loss is 2.9054089963436125
+DEBUG:root:loss is 2.8172956854104996
+DEBUG:root:loss is 2.813358759880066
+DEBUG:root:loss is 2.806033754348755
+DEBUG:root:loss is 2.7809461832046507
+DEBUG:root:loss is 2.757300379872322
+DEBUG:root:loss is 2.7368728637695314
+DEBUG:root:loss is 2.7400831401348116
+DEBUG:root:loss is 2.7584656089544297
+DEBUG:root:loss is 2.724921187758446
+DEBUG:root:loss is 2.7551198422908785
+DEBUG:root:loss is 2.7782062530517577
+DEBUG:root:loss is 2.860418716073036
+DEBUG:root:loss is 2.799227145314217
+DEBUG:root:输出从运行开始到现在的关系：40
+DEBUG:root:输出要训练的记忆体的数量：40
+DEBUG:root:loss is 7.564408385753632
+DEBUG:root:loss is 3.302048096060753
+DEBUG:root:loss is 2.7936133056879044
+DEBUG:root:loss is 2.639651782810688
+DEBUG:root:loss is 2.537534569203854
+DEBUG:root:loss is 2.50849871635437
+DEBUG:root:loss is 2.5045719712972643
+DEBUG:root:loss is 2.4630315586924554
+DEBUG:root:loss is 2.4394969448447226
+DEBUG:root:loss is 2.43319077193737
+DEBUG:root:loss is 2.4237838804721834
+DEBUG:root:loss is 2.40045685172081
+DEBUG:root:loss is 2.3904540479183196
+DEBUG:root:loss is 2.3739135295152662
+DEBUG:root:loss is 2.3752738937735556
+DEBUG:root:loss is 2.3656282253563403
+DEBUG:root:loss is 2.3889261968433857
+DEBUG:root:loss is 2.3804796904325487
+DEBUG:root:loss is 2.36926783323288
+DEBUG:root:loss is 2.393930245935917
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--4:
+DEBUG:root:当前奖励：-1.6189363516867161
+DEBUG:root:the 4th task:[30, 29, 62, 32, 57, 59, 31, 69, 47, 0]
+DEBUG:root:['member of political party', 'after a work by', 'notable work', 'headquarters location', 'taxon rank', 'field of work', 'licensed to broadcast to', 'constellation', 'platform', 'place served by transport hub']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 4.409022799134254
+DEBUG:root:loss is 0.21523173116147518
+DEBUG:root:loss is 0.06348475068807602
+DEBUG:root:loss is 0.03598790373653173
+DEBUG:root:loss is 0.02687996185850352
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin', 'main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion', 'located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location', 'applies to jurisdiction', 'performer', 'manufacturer', 'participant', 'operating system', 'competition class', 'successful candidate', 'sibling', 'military branch', 'child']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['member of political party', 'after a work by', 'notable work', 'headquarters location', 'taxon rank', 'field of work', 'licensed to broadcast to', 'constellation', 'platform', 'place served by transport hub'], 'teacher': 0.8439424574375153, 'student': 2.393930245935917, 'T': 2, 'T_index': 1, 'W': 0.1, 'W_index': 0, 'iter': 4}
+DEBUG:root:loss is 3.5449849009513854
+DEBUG:root:loss is 3.2237368792295458
+DEBUG:root:loss is 3.112320125102997
+DEBUG:root:loss is 3.0891534745693208
+DEBUG:root:loss is 3.1511290311813354
+DEBUG:root:loss is 3.098824018239975
+DEBUG:root:loss is 3.068063408136368
+DEBUG:root:loss is 3.0908472746610642
+DEBUG:root:loss is 3.0722583711147307
+DEBUG:root:loss is 3.07113054394722
+DEBUG:root:loss is 3.1086292386054994
+DEBUG:root:loss is 3.073353734612465
+DEBUG:root:loss is 3.061818468570709
+DEBUG:root:loss is 3.0278663337230682
+DEBUG:root:loss is 3.1144818902015685
+DEBUG:root:输出从运行开始到现在的关系：50
+DEBUG:root:输出要训练的记忆体的数量：50
+DEBUG:root:loss is 8.80528645515442
+DEBUG:root:loss is 3.8978235387802123
+DEBUG:root:loss is 3.261203064918518
+DEBUG:root:loss is 3.0584366297721863
+DEBUG:root:loss is 3.014828789234161
+DEBUG:root:loss is 2.9613653469085692
+DEBUG:root:loss is 2.9501936876773835
+DEBUG:root:loss is 2.9090593361854555
+DEBUG:root:loss is 2.9016446399688722
+DEBUG:root:loss is 2.904050290584564
+DEBUG:root:loss is 2.8604090356826783
+DEBUG:root:loss is 2.874579141139984
+DEBUG:root:loss is 2.8458510136604307
+DEBUG:root:loss is 2.8612322854995726
+DEBUG:root:loss is 2.859211649894714
+DEBUG:root:loss is 2.856239328384399
+DEBUG:root:loss is 2.832051169872284
+DEBUG:root:loss is 2.846031515598297
+DEBUG:root:loss is 2.8238407123088836
+DEBUG:root:loss is 2.832930351495743
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--5:
+DEBUG:root:当前奖励：-1.8595346672832966
+DEBUG:root:the 5th task:[73, 68, 19, 7, 65, 52, 76, 34, 35, 42]
+DEBUG:root:['follows', 'sport', 'father', 'original network', 'original language of work', 'league', 'mother', 'instrument', 'country', 'characters']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 4.762472638487816
+DEBUG:root:loss is 0.670645041577518
+DEBUG:root:loss is 0.14902280294336379
+DEBUG:root:loss is 0.057324855402112004
+DEBUG:root:loss is 0.033457125932909546
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin', 'main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion', 'located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location', 'applies to jurisdiction', 'performer', 'manufacturer', 'participant', 'operating system', 'competition class', 'successful candidate', 'sibling', 'military branch', 'child', 'member of political party', 'after a work by', 'notable work', 'headquarters location', 'taxon rank', 'field of work', 'licensed to broadcast to', 'constellation', 'platform', 'place served by transport hub']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['follows', 'sport', 'father', 'original network', 'original language of work', 'league', 'mother', 'instrument', 'country', 'characters'], 'teacher': 0.8861389830708504, 'student': 2.832930351495743, 'T': 2, 'T_index': 1, 'W': 0.1, 'W_index': 0, 'iter': 5}
+DEBUG:root:loss is 4.053481531143189
+DEBUG:root:loss is 3.662367397546768
+DEBUG:root:loss is 3.6237645208835603
+DEBUG:root:loss is 3.6337871670722963
+DEBUG:root:loss is 3.605946844816208
+DEBUG:root:loss is 3.5716081321239472
+DEBUG:root:loss is 3.6293615758419038
+DEBUG:root:loss is 3.5773026406764985
+DEBUG:root:loss is 3.5757695972919463
+DEBUG:root:loss is 3.5553202748298647
+DEBUG:root:loss is 3.5755811989307404
+DEBUG:root:loss is 3.565042054653168
+DEBUG:root:loss is 3.549083572626114
+DEBUG:root:loss is 3.5429991841316224
+DEBUG:root:loss is 3.5176333129405974
+DEBUG:root:输出从运行开始到现在的关系：60
+DEBUG:root:输出要训练的记忆体的数量：60
+DEBUG:root:loss is 9.041756912072499
+DEBUG:root:loss is 4.492121102412542
+DEBUG:root:loss is 3.648052982489268
+DEBUG:root:loss is 3.442149325211843
+DEBUG:root:loss is 3.3764213462670645
+DEBUG:root:loss is 3.317815810441971
+DEBUG:root:loss is 3.280482695500056
+DEBUG:root:loss is 3.294626917441686
+DEBUG:root:loss is 3.2650758067766827
+DEBUG:root:loss is 3.2830131888389587
+DEBUG:root:loss is 3.2601659178733824
+DEBUG:root:loss is 3.2874914348125457
+DEBUG:root:loss is 3.238498894373576
+DEBUG:root:loss is 3.2712655027707416
+DEBUG:root:loss is 3.2568820774555207
+DEBUG:root:loss is 3.2512694597244263
+DEBUG:root:loss is 3.2692365487416586
+DEBUG:root:loss is 3.252532931168874
+DEBUG:root:loss is 3.2800943315029145
+DEBUG:root:loss is 3.24324390689532
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--6:
+DEBUG:root:当前奖励：-2.0655433726807435
+DEBUG:root:the 6th task:[4, 50, 49, 75, 17, 26, 38, 36, 8, 72]
+DEBUG:root:['contains administrative territorial entity', 'said to be the same as', 'winner', 'military rank', 'publisher', 'followed by', 'work location', 'occupation', 'heritage designation', 'voice type']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 5.19289204031229
+DEBUG:root:loss is 0.3165967071428895
+DEBUG:root:loss is 0.06269558146595955
+DEBUG:root:loss is 0.03697108174674213
+DEBUG:root:loss is 0.023811327177099884
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin', 'main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion', 'located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location', 'applies to jurisdiction', 'performer', 'manufacturer', 'participant', 'operating system', 'competition class', 'successful candidate', 'sibling', 'military branch', 'child', 'member of political party', 'after a work by', 'notable work', 'headquarters location', 'taxon rank', 'field of work', 'licensed to broadcast to', 'constellation', 'platform', 'place served by transport hub', 'follows', 'sport', 'father', 'original network', 'original language of work', 'league', 'mother', 'instrument', 'country', 'characters']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['contains administrative territorial entity', 'said to be the same as', 'winner', 'military rank', 'publisher', 'followed by', 'work location', 'occupation', 'heritage designation', 'voice type'], 'teacher': 0.8878428384661674, 'student': 3.24324390689532, 'T': 2, 'T_index': 1, 'W': 0.1, 'W_index': 0, 'iter': 6}
+DEBUG:root:loss is 4.104331225156784
+DEBUG:root:loss is 3.8280514895915987
+DEBUG:root:loss is 3.737132704257965
+DEBUG:root:loss is 3.713652664422989
+DEBUG:root:loss is 3.7757818698883057
+DEBUG:root:loss is 3.6955430150032043
+DEBUG:root:loss is 3.6956196665763854
+DEBUG:root:loss is 3.756297755241394
+DEBUG:root:loss is 3.689424341917038
+DEBUG:root:loss is 3.6796816289424896
+DEBUG:root:loss is 3.678635561466217
+DEBUG:root:loss is 3.7086283028125764
+DEBUG:root:loss is 3.6654161512851715
+DEBUG:root:loss is 3.654564082622528
+DEBUG:root:loss is 3.6454930901527405
+DEBUG:root:输出从运行开始到现在的关系：70
+DEBUG:root:输出要训练的记忆体的数量：70
+DEBUG:root:loss is 10.054828534807477
+DEBUG:root:loss is 4.7958892141069684
+DEBUG:root:loss is 3.994495213031769
+DEBUG:root:loss is 3.769873331274305
+DEBUG:root:loss is 3.6893135155950274
+DEBUG:root:loss is 3.6254691447530476
+DEBUG:root:loss is 3.646128831590925
+DEBUG:root:loss is 3.6397012080465045
+DEBUG:root:loss is 3.636794170311519
+DEBUG:root:loss is 3.7380759256226677
+DEBUG:root:loss is 3.8294346170766014
+DEBUG:root:loss is 3.6696000031062534
+DEBUG:root:loss is 3.716587327207838
+DEBUG:root:loss is 3.6705890144620623
+DEBUG:root:loss is 3.6416019422667367
+DEBUG:root:loss is 3.6401689546448845
+DEBUG:root:loss is 3.6403229951858522
+DEBUG:root:loss is 3.609342840739659
+DEBUG:root:loss is 3.654587313107082
+DEBUG:root:loss is 3.633450368472508
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--7:
+DEBUG:root:当前奖励：-2.2126927258712903
+DEBUG:root:the 7th task:[74, 53, 54, 71, 39, 6, 44, 22, 70, 56]
+DEBUG:root:['spouse', 'record label', 'distributor', 'located in or next to body of water', 'subsidiary', 'country of citizenship', 'genre', 'mouth of the watercourse', 'position played on team / speciality', 'sports season of league or competition']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 4.666304468363523
+DEBUG:root:loss is 0.2349179216660559
+DEBUG:root:loss is 0.05576645331457257
+DEBUG:root:loss is 0.03715149131603539
+DEBUG:root:loss is 0.027117786230519414
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin', 'main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion', 'located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location', 'applies to jurisdiction', 'performer', 'manufacturer', 'participant', 'operating system', 'competition class', 'successful candidate', 'sibling', 'military branch', 'child', 'member of political party', 'after a work by', 'notable work', 'headquarters location', 'taxon rank', 'field of work', 'licensed to broadcast to', 'constellation', 'platform', 'place served by transport hub', 'follows', 'sport', 'father', 'original network', 'original language of work', 'league', 'mother', 'instrument', 'country', 'characters', 'contains administrative territorial entity', 'said to be the same as', 'winner', 'military rank', 'publisher', 'followed by', 'work location', 'occupation', 'heritage designation', 'voice type']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['spouse', 'record label', 'distributor', 'located in or next to body of water', 'subsidiary', 'country of citizenship', 'genre', 'mouth of the watercourse', 'position played on team / speciality', 'sports season of league or competition'], 'teacher': 0.7919350832700729, 'student': 3.633450368472508, 'T': 2, 'T_index': 1, 'W': 0.1, 'W_index': 0, 'iter': 7}
+DEBUG:root:loss is 4.517507791519165
+DEBUG:root:loss is 4.024799555540085
+DEBUG:root:loss is 3.9886653244495394
+DEBUG:root:loss is 3.9119109869003297
+DEBUG:root:loss is 3.944762820005417
+DEBUG:root:loss is 3.937743550539017
+DEBUG:root:loss is 3.8858412504196167
+DEBUG:root:loss is 3.8672154426574705
+DEBUG:root:loss is 3.871086061000824
+DEBUG:root:loss is 3.8752282202243804
+DEBUG:root:loss is 3.9299085795879365
+DEBUG:root:loss is 3.8620894730091093
+DEBUG:root:loss is 3.8636479496955873
+DEBUG:root:loss is 3.8472525775432587
+DEBUG:root:loss is 3.853915011882782
+DEBUG:root:输出从运行开始到现在的关系：80
+DEBUG:root:输出要训练的记忆体的数量：80
+DEBUG:root:loss is 10.999304962158202
+DEBUG:root:loss is 5.267656400799751
+DEBUG:root:loss is 4.3139439702033995
+DEBUG:root:loss is 4.0851684480905535
+DEBUG:root:loss is 4.011957365274429
+DEBUG:root:loss is 3.9849890753626824
+DEBUG:root:loss is 3.9244719237089156
+DEBUG:root:loss is 3.952967271208763
+DEBUG:root:loss is 3.9734628170728685
+DEBUG:root:loss is 3.959796939790249
+DEBUG:root:loss is 3.937810887396336
+DEBUG:root:loss is 3.9550275027751924
+DEBUG:root:loss is 3.980881893634796
+DEBUG:root:loss is 3.9522621229290964
+DEBUG:root:loss is 3.9604854986071585
+DEBUG:root:loss is 3.9803850039839745
+DEBUG:root:loss is 4.029785718023777
+DEBUG:root:loss is 4.026316440105438
+DEBUG:root:loss is 4.099382464587689
+DEBUG:root:loss is 4.049865046143532
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--8:
+DEBUG:root:当前奖励：-2.4367497444152835
+DEBUG:root:the 0th task:[24, 63, 5, 77, 64, 48, 11, 20, 13, 16]
+DEBUG:root:['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin']
+DEBUG:root:当前任务的数据990
+DEBUG:root:loss is 0.11004864948336035
+DEBUG:root:loss is 0.000756479292282496
+DEBUG:root:loss is 0.000285080873789301
+DEBUG:root:loss is 0.0001354245056743343
+DEBUG:root:loss is 7.418367721115691e-05
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：[]
+DEBUG:root:current data number:                990
+DEBUG:root:当前蒸馏温度与权重：{'input': ['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin'], 'teacher': None, 'student': None, 'T': 1.5, 'T_index': 0, 'W': 0.1, 'W_index': 0, 'iter': 0}
+DEBUG:root:loss is 1.9972282346224378e-06
+DEBUG:root:loss is 0.03714771207570275
+DEBUG:root:loss is 0.12592765161198494
+DEBUG:root:loss is 0.04968599617324242
+DEBUG:root:loss is 0.14368892479916226
+DEBUG:root:loss is 0.11462391483570543
+DEBUG:root:loss is 2.0858398840531634e-06
+DEBUG:root:loss is 7.687058494543606e-05
+DEBUG:root:loss is 2.633668704724655e-06
+DEBUG:root:loss is 5.621634407317245e-07
+DEBUG:root:loss is 7.729678998453679e-07
+DEBUG:root:loss is 5.992267417620664e-07
+DEBUG:root:loss is 5.47310727911019e-07
+DEBUG:root:loss is 7.479688837253596e-07
+DEBUG:root:loss is 2.7888014674342506e-07
+DEBUG:root:输出从运行开始到现在的关系：10
+DEBUG:root:输出要训练的记忆体的数量：10
+DEBUG:root:loss is 2.626993547451273e-08
+DEBUG:root:loss is 1.3022855582800474e-08
+DEBUG:root:loss is 4.848147770915301e-09
+DEBUG:root:loss is 1.3748579628936053e-09
+DEBUG:root:loss is 1.3708735726019467e-09
+DEBUG:root:loss is 5.351153122348795e-09
+DEBUG:root:loss is 1.0406676563892714e-09
+DEBUG:root:loss is 6.254877327888098e-10
+DEBUG:root:loss is 1.1828798771214289e-09
+DEBUG:root:loss is 8.813770788727859e-10
+DEBUG:root:loss is 5.795167769273579e-10
+DEBUG:root:loss is 8.270603905728702e-10
+DEBUG:root:loss is 1.00442419164945e-09
+DEBUG:root:loss is 9.785065202116277e-10
+DEBUG:root:loss is 5.959680512979126e-10
+DEBUG:root:loss is 9.123259976911297e-10
+DEBUG:root:loss is 5.048818555071499e-10
+DEBUG:root:loss is 8.060748981492116e-10
+DEBUG:root:loss is 1.4243493766386007e-09
+DEBUG:root:loss is 4.393772729330281e-10
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--1:
+DEBUG:root:当前奖励：-2.1968863646651405e-10
+DEBUG:root:the 1th task:[79, 3, 12, 23, 28, 1, 55, 60, 41, 2]
+DEBUG:root:['main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 3.1379245325922964
+DEBUG:root:loss is 0.21158376084640623
+DEBUG:root:loss is 0.04334414852783084
+DEBUG:root:loss is 0.02827261360362172
+DEBUG:root:loss is 0.019496090966276823
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion'], 'teacher': 0.0, 'student': 4.393772729330281e-10, 'T': 1.5, 'T_index': 0, 'W': 0.1, 'W_index': 0, 'iter': 1}
+DEBUG:root:loss is 2.132330061495304
+DEBUG:root:loss is 1.4227660715579986
+DEBUG:root:loss is 1.2015781670808792
+DEBUG:root:loss is 1.1452177427709103
+DEBUG:root:loss is 1.05282339528203
+DEBUG:root:loss is 1.0635329648852347
+DEBUG:root:loss is 1.0457731023430825
+DEBUG:root:loss is 1.0647820815443994
+DEBUG:root:loss is 1.1180848993360997
+DEBUG:root:loss is 0.9871295742690563
+DEBUG:root:loss is 1.0091120027005673
+DEBUG:root:loss is 1.0114904351532459
+DEBUG:root:loss is 0.9572963073849678
+DEBUG:root:loss is 1.062471977621317
+DEBUG:root:loss is 1.1056608512997628
+DEBUG:root:输出从运行开始到现在的关系：20
+DEBUG:root:输出要训练的记忆体的数量：20
+DEBUG:root:loss is 2.966086655855179
+DEBUG:root:loss is 1.2728279486298562
+DEBUG:root:loss is 1.0200850434601307
+DEBUG:root:loss is 1.067408175766468
+DEBUG:root:loss is 1.1639691554009914
+DEBUG:root:loss is 1.0343797355890274
+DEBUG:root:loss is 1.0164285212755204
+DEBUG:root:loss is 0.9600638329982758
+DEBUG:root:loss is 0.8988985307514668
+DEBUG:root:loss is 0.8316964745521546
+DEBUG:root:loss is 0.8338904708623887
+DEBUG:root:loss is 0.8137801498174667
+DEBUG:root:loss is 0.8233719408512116
+DEBUG:root:loss is 0.7913752797991037
+DEBUG:root:loss is 0.7561409950256348
+DEBUG:root:loss is 0.7733138293027878
+DEBUG:root:loss is 0.7787322796881199
+DEBUG:root:loss is 0.7938404940068722
+DEBUG:root:loss is 0.7174792975187302
+DEBUG:root:loss is 0.7410340394824744
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--2:
+DEBUG:root:当前奖励：-0.7844088507816196
+DEBUG:root:the 2th task:[14, 10, 18, 46, 67, 43, 15, 37, 51, 58]
+DEBUG:root:['located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 3.7458323426544666
+DEBUG:root:loss is 0.13833431256935
+DEBUG:root:loss is 0.04759683283045888
+DEBUG:root:loss is 0.02964351582340896
+DEBUG:root:loss is 0.023641199967823923
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin', 'main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location'], 'teacher': 0.8277836620807648, 'student': 0.7410340394824744, 'T': 1.5, 'T_index': 0, 'W': 0.1, 'W_index': 0, 'iter': 2}
+DEBUG:root:loss is 2.6466529220342636
+DEBUG:root:loss is 1.904395343363285
+DEBUG:root:loss is 1.863503883779049
+DEBUG:root:loss is 1.8605262592434884
+DEBUG:root:loss is 1.8327104166150092
+DEBUG:root:loss is 1.89828622341156
+DEBUG:root:loss is 1.941074389219284
+DEBUG:root:loss is 1.930205000936985
+DEBUG:root:loss is 1.854794616997242
+DEBUG:root:loss is 1.8245885118842124
+DEBUG:root:loss is 1.8708579406142234
+DEBUG:root:loss is 1.8345080956816673
+DEBUG:root:loss is 1.7882671728730202
+DEBUG:root:loss is 1.8173177763819695
+DEBUG:root:loss is 1.8566654458642007
+DEBUG:root:输出从运行开始到现在的关系：30
+DEBUG:root:输出要训练的记忆体的数量：30
+DEBUG:root:loss is 5.006388481458028
+DEBUG:root:loss is 1.942582161227862
+DEBUG:root:loss is 1.7591911981503168
+DEBUG:root:loss is 1.6886689533789954
+DEBUG:root:loss is 1.6168721308310827
+DEBUG:root:loss is 1.586162125567595
+DEBUG:root:loss is 1.5079984173178673
+DEBUG:root:loss is 1.501739545663198
+DEBUG:root:loss is 1.4320815826455753
+DEBUG:root:loss is 1.4016527608036995
+DEBUG:root:loss is 1.3789767374595006
+DEBUG:root:loss is 1.3381191621224084
+DEBUG:root:loss is 1.337942119439443
+DEBUG:root:loss is 1.2883893931905428
+DEBUG:root:loss is 1.266982770462831
+DEBUG:root:loss is 1.3161461154619853
+DEBUG:root:loss is 1.3115084782242774
+DEBUG:root:loss is 1.2928733309110005
+DEBUG:root:loss is 1.2573443219065665
+DEBUG:root:loss is 1.2177838782469432
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--3:
+DEBUG:root:当前奖励：-0.9789975342651209
+DEBUG:root:the 3th task:[61, 9, 27, 40, 45, 66, 25, 33, 21, 78]
+DEBUG:root:['applies to jurisdiction', 'performer', 'manufacturer', 'participant', 'operating system', 'competition class', 'successful candidate', 'sibling', 'military branch', 'child']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 3.8216925241053104
+DEBUG:root:loss is 0.14995591542683542
+DEBUG:root:loss is 0.03580560353584587
+DEBUG:root:loss is 0.02411658284254372
+DEBUG:root:loss is 0.01904232045635581
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin', 'main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion', 'located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['applies to jurisdiction', 'performer', 'manufacturer', 'participant', 'operating system', 'competition class', 'successful candidate', 'sibling', 'military branch', 'child'], 'teacher': 0.7402111902832985, 'student': 1.2177838782469432, 'T': 1.5, 'T_index': 0, 'W': 0.1, 'W_index': 0, 'iter': 3}
+DEBUG:root:loss is 2.7723600178956986
+DEBUG:root:loss is 2.1794062912464143
+DEBUG:root:loss is 2.1382318526506423
+DEBUG:root:loss is 2.1921477779746055
+DEBUG:root:loss is 2.1847768247127535
+DEBUG:root:loss is 2.2077887058258057
+DEBUG:root:loss is 2.2095378160476686
+DEBUG:root:loss is 2.191172021627426
+DEBUG:root:loss is 2.183803308010101
+DEBUG:root:loss is 2.1446172267198564
+DEBUG:root:loss is 2.1836861461400985
+DEBUG:root:loss is 2.1997348994016646
+DEBUG:root:loss is 2.1458699822425844
+DEBUG:root:loss is 2.1518021807074548
+DEBUG:root:loss is 2.139780631661415
+DEBUG:root:输出从运行开始到现在的关系：40
+DEBUG:root:输出要训练的记忆体的数量：40
+DEBUG:root:loss is 7.137709140777588
+DEBUG:root:loss is 2.384684121608734
+DEBUG:root:loss is 1.9768439568579197
+DEBUG:root:loss is 1.8621391713619233
+DEBUG:root:loss is 1.8466562725603581
+DEBUG:root:loss is 1.7869722165167332
+DEBUG:root:loss is 1.7605946976691484
+DEBUG:root:loss is 1.7547930300235748
+DEBUG:root:loss is 1.7373089153319596
+DEBUG:root:loss is 1.6788776721805334
+DEBUG:root:loss is 1.716273432970047
+DEBUG:root:loss is 1.6979785811156034
+DEBUG:root:loss is 1.6567286401987076
+DEBUG:root:loss is 1.6905133794993161
+DEBUG:root:loss is 1.6822411801666022
+DEBUG:root:loss is 1.6695867367088795
+DEBUG:root:loss is 1.6832347702234984
+DEBUG:root:loss is 1.6885416574776173
+DEBUG:root:loss is 1.6770103007555008
+DEBUG:root:loss is 1.6480641309171915
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--4:
+DEBUG:root:当前奖励：-1.2459925981238484
+DEBUG:root:the 4th task:[30, 29, 62, 32, 57, 59, 31, 69, 47, 0]
+DEBUG:root:['member of political party', 'after a work by', 'notable work', 'headquarters location', 'taxon rank', 'field of work', 'licensed to broadcast to', 'constellation', 'platform', 'place served by transport hub']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 4.251988270878792
+DEBUG:root:loss is 0.15215685770381243
+DEBUG:root:loss is 0.0397473419085145
+DEBUG:root:loss is 0.024286547373048962
+DEBUG:root:loss is 0.018393229390494526
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin', 'main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion', 'located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location', 'applies to jurisdiction', 'performer', 'manufacturer', 'participant', 'operating system', 'competition class', 'successful candidate', 'sibling', 'military branch', 'child']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['member of political party', 'after a work by', 'notable work', 'headquarters location', 'taxon rank', 'field of work', 'licensed to broadcast to', 'constellation', 'platform', 'place served by transport hub'], 'teacher': 0.8439210653305054, 'student': 1.6480641309171915, 'T': 1.5, 'T_index': 0, 'W': 0.1, 'W_index': 0, 'iter': 4}
+DEBUG:root:loss is 3.3217579245567324
+DEBUG:root:loss is 2.8177924335002897
+DEBUG:root:loss is 2.8134308218955995
+DEBUG:root:loss is 2.776647999882698
+DEBUG:root:loss is 2.8127415835857392
+DEBUG:root:loss is 2.797559902071953
+DEBUG:root:loss is 2.8400345712900164
+DEBUG:root:loss is 2.7780968695878983
+DEBUG:root:loss is 2.791678550839424
+DEBUG:root:loss is 2.8106140404939652
+DEBUG:root:loss is 2.776074728369713
+DEBUG:root:loss is 2.7832020819187164
+DEBUG:root:loss is 2.780088132619858
+DEBUG:root:loss is 2.9292813539505005
+DEBUG:root:loss is 2.8534924775362014
+DEBUG:root:输出从运行开始到现在的关系：50
+DEBUG:root:输出要训练的记忆体的数量：50
+DEBUG:root:loss is 8.206252069473267
+DEBUG:root:loss is 2.852578440904617
+DEBUG:root:loss is 2.3733888816833497
+DEBUG:root:loss is 2.2509162616729737
+DEBUG:root:loss is 2.1937309819459916
+DEBUG:root:loss is 2.187022716999054
+DEBUG:root:loss is 2.095966868400574
+DEBUG:root:loss is 2.1175925374031066
+DEBUG:root:loss is 2.128091787099838
+DEBUG:root:loss is 2.07956943243742
+DEBUG:root:loss is 2.0978040206432342
+DEBUG:root:loss is 2.108504806160927
+DEBUG:root:loss is 2.0751548966765405
+DEBUG:root:loss is 2.06216053545475
+DEBUG:root:loss is 2.0918067514896395
+DEBUG:root:loss is 2.0376586267352104
+DEBUG:root:loss is 2.066006065607071
+DEBUG:root:loss is 2.0484288293123245
+DEBUG:root:loss is 2.063710122704506
+DEBUG:root:loss is 2.063298150897026
+DEBUG:root:memory finished
+DEBUG:root:Restart Num 1
+DEBUG:root:task--5:
+DEBUG:root:当前奖励：-1.475283645093441
+DEBUG:root:the 5th task:[73, 68, 19, 7, 65, 52, 76, 34, 35, 42]
+DEBUG:root:['follows', 'sport', 'father', 'original network', 'original language of work', 'league', 'mother', 'instrument', 'country', 'characters']
+DEBUG:root:当前任务的数据40
+DEBUG:root:loss is 4.515041669458151
+DEBUG:root:loss is 0.19549406198784708
+DEBUG:root:loss is 0.048749428684823216
+DEBUG:root:loss is 0.030920186964794993
+DEBUG:root:loss is 0.021910944720730186
+DEBUG:root:simple finished
+DEBUG:root:以往数据显示：['movement', 'located in the administrative territorial entity', 'head of government', 'member of', 'crosses', 'tributary', 'position held', 'developer', 'location of formation', 'country of origin', 'main subject', 'participating team', 'has part', 'nominated for', 'instance of', 'mountain range', 'screenwriter', 'language of work or name', 'operator', 'religion', 'located on terrain feature', 'participant of', 'director', 'owned by', 'part of', 'occupant', 'architect', 'residence', 'composer', 'location', 'applies to jurisdiction', 'performer', 'manufacturer', 'participant', 'operating system', 'competition class', 'successful candidate', 'sibling', 'military branch', 'child', 'member of political party', 'after a work by', 'notable work', 'headquarters location', 'taxon rank', 'field of work', 'licensed to broadcast to', 'constellation', 'platform', 'place served by transport hub']
+DEBUG:root:current data number:                40
+DEBUG:root:当前蒸馏温度与权重：{'input': ['follows', 'sport', 'father', 'original network', 'original language of work', 'league', 'mother', 'instrument', 'country', 'characters'], 'teacher': 0.887269139289856, 'student': 2.063298150897026, 'T': 1.5, 'T_index': 0, 'W': 0.3, 'W_index': 2, 'iter': 5}
+DEBUG:root:loss is 3.579281061887741
+DEBUG:root:loss is 3.119964396953583
+DEBUG:root:loss is 3.0891325175762177
+DEBUG:root:loss is 3.0351007163524626
+DEBUG:root:loss is 3.0878643304109574
+DEBUG:root:loss is 3.053459531068802
+DEBUG:root:loss is 3.0562066555023195
+DEBUG:root:loss is 3.0563491761684416
+DEBUG:root:loss is 3.103024196624756
+DEBUG:root:loss is 3.1212647914886475
+DEBUG:root:loss is 3.065122199058533
+DEBUG:root:loss is 3.0885609686374664
+DEBUG:root:loss is 3.0767110645771027
+DEBUG:root:loss is 3.1149254977703094
+DEBUG:root:loss is 3.0922743916511535
+DEBUG:root:输出从运行开始到现在的关系：60
+DEBUG:root:输出要训练的记忆体的数量：60
+DEBUG:root:loss is 8.307987745602926
+DEBUG:root:loss is 3.504951254526774
+DEBUG:root:loss is 2.7759799947341284
+DEBUG:root:loss is 2.627317757407824
+DEBUG:root:loss is 2.603727275629838

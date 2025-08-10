@@ -1,0 +1,41 @@
+Describes the year or time an organization was established
+Indicates the subsidiaries or branch organizations owned or controlled by a parent company
+Provides the birth date of an individual
+Specifies the city where an organization's headquarters is located
+States the age of a person
+Describes the accusations or formal charges brought against a person, which may be inferred from roles or positions
+Lists the countries where a person has lived
+Indicates the country of a person's birth,
+Describes the states or provinces where a person has resided
+Offers the official website address of an organization
+Enumerates the cities where a person has lived
+Describes a person's parents, which can be inferred from context
+Specifies the employer or organization a person works for
+Provides the city of a person's birth
+Describes the parent company or governing body of an organization
+Details the political or religious affiliations of an organization
+Lists the schools a person has attended
+Provides the country where a person died
+Describes a person's children
+Lists the principal members or employees of an organization
+Provides the date of a person's death
+Enumerates the members of an organization,
+Offers alternative names or acronyms for an organization
+Describes a person's religious beliefs
+Indicates the larger organization or alliance a specific organization is a member of
+Provides the cause of a person's death
+Describes a person's ethnic or cultural background
+Lists the shareholders of an organization
+Provides the state or province of a person's birth
+Specifies a person's title or designation in their profession or life
+Provides the number of employees or members in an organization
+Describes the dissolution or end of an organization
+Indicates the country where an organization's headquarters is located
+Lists alternative names or nicknames for a person
+Describes a person's siblings
+Provides the state or province where an organization's headquarters is located
+Describes a person's spouse
+Lists other family members of a person
+Provides the city where a person died
+Provides the state or province where a person died
+Describes the founder(s) of an organization
